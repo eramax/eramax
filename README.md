@@ -25,7 +25,7 @@ Cheerful and visionary IT Solution Architect with 15+ years of experience, leadi
 - Certified ITIL Foundation V.3
 - Certified Scrum Master SMC
 
-I engage in evangelism and advocacy efforts, sharing my knowledge and insights through research publications, blog posts on my [blog](https://emolike.net/)
+I am sharing my knowledge and insights through my blog on my [blog](https://emolike.net/)
 
 ## 🔗 Connect with me 
 <a href="https://twitter.com/eramax" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
