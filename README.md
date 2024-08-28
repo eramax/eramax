@@ -21,7 +21,7 @@ Cheerful and visionary IT Solution Architect with 15+ years of experience, leadi
 - Azure Security Engineer Associate
 - Azure AI Engineer Associate
 - Program Degree in Business Administration from Harvard Business School (4 months Program) 
-- Bachelor Degree in Computer Science from Assiut
+- Bachelor Degree in Computer Science from Egypt
 - Certified ITIL Foundation V.3
 - Certified Scrum Master SMC
 
